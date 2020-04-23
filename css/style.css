@@ -1,0 +1,57 @@
+h1{
+font-family: Raleway;
+}
+
+h2{
+font-family: Open Sans;
+}
+
+h3{
+font-family: Open Sans;
+}
+
+p{
+font-family: Open Sans;
+
+}
+
+.EmiliaCole{
+font-family: work sans;
+}
+
+.turquesa{
+color: #45B39D
+}
+
+.mapa{
+width: 100%;
+height: 450px;
+}
+
+.links{
+text-align: right;
+}
+
+#fotoabout{
+background-image: url("../img/emilia-about.jpg");
+background-size: 1000px;
+background-repeat: no-repeat;
+background-position: right;
+}
+
+#fotoindex{
+background-image: url("../img/emilia-home.jpg");
+background-size: 1100px;
+background-repeat: no-repeat;
+background-position-y: center;
+background-position-x: right;
+}
+
+.letragrande{
+font-size: 50px;
+font-weight: bold;
+}
+
+#textofondo{
+background-image: url("../img/emilia-music-top.jpg");
+}
