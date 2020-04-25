@@ -1,26 +1,39 @@
 h1{
-font-family: Raleway;
+font-family: Raleway, sans-serif;
 }
 
 h2{
-font-family: Open Sans;
+font-family: Open Sans, sans-serif;
 }
 
 h3{
-font-family: Open Sans;
+font-family: Open Sans, sans-serif;
 }
 
 p{
-font-family: Open Sans;
+font-family: Open Sans, sans-serif;
+font-size: 12px
+}
 
+.margen{
+padding-left: 5mm;
+font-size: 15px;
 }
 
 .EmiliaCole{
-font-family: work sans;
+font-family: work sans, sans-serif;
+font-size: 30px;
+line-height: 2px;
+padding-left: 5mm;
+}
+
+.parrafohome{
+color: grey;
+padding-left: 5mm;
 }
 
 .turquesa{
-color: #45B39D
+color: #45B39D;
 }
 
 .mapa{
@@ -43,15 +56,58 @@ background-position: right;
 background-image: url("../img/emilia-home.jpg");
 background-size: 1100px;
 background-repeat: no-repeat;
-background-position-y: center;
+background-position-y: bottom;
 background-position-x: right;
 }
 
 .letragrande{
 font-size: 50px;
-font-weight: bold;
 }
 
 #textofondo{
 background-image: url("../img/emilia-music-top.jpg");
+}
+
+.fondo{
+background-color: rgba(229, 231, 233, 0.4);
+}
+
+a{
+text-decoration: none;
+}
+
+.marg{
+margin-left: 20px;
+}
+
+.derecha{
+text-align: right;
+}
+
+.letracontact{
+font-size: 17px;
+}
+
+.interlineado{
+line-height: 10px
+}
+
+.aboutemi{
+line-height: 25px;
+}
+
+.letramusica{
+line-height: 7px;
+margin-left: 30px;
+color: grey;
+}
+
+.letramusica2{
+font-family: Raleway, sans-serif;
+line-height: 10px;
+}
+
+#lista{
+    font-family: Open Sans, sans-serif;
+    line-height: 30px;
 }
